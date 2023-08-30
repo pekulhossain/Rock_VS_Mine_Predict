@@ -1,4 +1,5 @@
-# Project Name: **Sonar Rock VS Mine Prediction with Python**
+# Project Name:**Sonar Rock VS Mine Prediction with Python**
+
 ## About
 
 Outwardly SONAR technique has
